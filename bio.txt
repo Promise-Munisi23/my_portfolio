@@ -1,41 +1,41 @@
-About Vicky:
-Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+About Promise:
+Promise is a dedicated student at WeThinkCode, with a profound interest in technology and a passion for creating innovative solutions through coding. Proficient in Cloud computing, Python, HTML, CSS, and currently expanding skills in Java, Promise actively engages in online tech courses and enjoys exploring the latest trends in the tech industry.
 
 Work Experience:
-Data Scientist at IBM (2015-2019); Software Developer at IBM (2010-2015)
+As a student at WeThinkCode, Promise is actively honing their skills and knowledge in various technologies, preparing for a successful career in the tech industry.
 
 Career Goal:
-Vicky's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+Promise's career goal is to leverage their expertise in Cloud, Python, and emerging technologies to drive innovation and develop solutions that positively impact businesses and society.
 
-Skills: 
-AI, Data Science, Blockchain, Cloud, Python
+Skills:
+Cloud, Python, HTML, CSS, Java
 
 Certification:
-IBM Applied AI Professional Certificate (2023)
+Promise is continuously enhancing their skills through online courses and practical projects, aiming to excel in their chosen field.
 
 Achievements:
-Spearheaded AI projects at IBM, resulting in a 30% increase in user engagement.
-Utilized IBM's watsonx service to help over 1000 companies from various domains automate their HR processes, from hiring to onboarding, contributing to a 100% positive feedback rate from companies.
+While still a student, Promise has demonstrated a strong commitment to learning and growth in technology, with a focus on practical applications and real-world projects.
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/vicky-tck
-Phone: 123-456-789
-Location: Toronto, Ontario
+LinkedIn: [https://www.linkedin.com/in/promise-munisi-775982302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+Phone: [0826946275]
+Location: [Gauteng, Johannesburg]
 
 Strengths and Advantages:
-Vicky's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+Promise's strengths lie in their dedication to learning, passion for technology, and creative problem-solving skills, which will be valuable assets in their future career endeavors.
 
 Weaknesses and Disadvantages:
-Vicky's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+Promise's enthusiasm for technology may sometimes lead to a deep dive into analysis, but this dedication ensures a thorough understanding of concepts and the delivery of high-quality work.
 
 Interests and Hobbies:
-Vicky's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
+In addition to their tech pursuits, Promise enjoys reading, exploring new tech trends, and engaging in coding projects that challenge their skills and creativity. Outside of tech, Promise finds joy in activities like reading, walking, and spending time with friends and family.
 
 Portfolio:
-Explore Vicky's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Vicky's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
+Explore Promise's portfolio of coding projects, showcasing a blend of creativity, technical skills, and a passion for innovation. Stay tuned for updates on new projects and developments in Promise's coding journey.
 
 Availability:
-Vicky is actively seeking new opportunities and is ready to start immediately.
+Promise is eager to continue learning, exploring new opportunities, and contributing to the tech industry with their skills and enthusiasm.
+Related
 
 References:
 References are available upon request.
